@@ -1,1 +1,3 @@
-Change COOKIE_KEY in appengine_config.py 
+Session Library: https://github.com/dound/gae-sessions
+
+Change COOKIE_KEY in appengine_config.py
