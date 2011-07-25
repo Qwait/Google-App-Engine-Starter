@@ -12,4 +12,4 @@ handlers:
   upload: static/images/favicon.ico
  
 - url: .*
-  script: main.py
+  script: routers/main.py
